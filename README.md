@@ -3,6 +3,7 @@
 Experienced Full Stack Engineer proficient in developing robust web applications, designing intuitive user interfaces, and managing databases. Skilled in all stages of the deployment process, from infrastructure setup to ensuring seamless performance.
 
 ## Skills
+Frontend: React.js | Backend: Node.js | DevOps: Kubernetes | Database: PostgreSQL
 
 ### Frontend
 - React.js
