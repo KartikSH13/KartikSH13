@@ -12,6 +12,52 @@ Vanilla JS | Java         | Docker          | MySQL
 CSS        | Python Flask | GCP             | AWS
 | | | Terraform (IaC) | 
 
+<table style="border-collapse: collapse;">
+<tr>
+<td style="padding: 8px;"><strong>Frontend</strong></td>
+<td style="padding: 8px;"><strong>Backend</strong></td>
+<td style="padding: 8px;"><strong>DevOps</strong></td>
+<td style="padding: 8px;"><strong>Database</strong></td>
+</tr>
+<tr>
+<td style="padding: 8px;">React.js</td>
+<td style="padding: 8px;">Node.js</td>
+<td style="padding: 8px;">Kubernetes</td>
+<td style="padding: 8px;">PostgreSQL</td>
+</tr>
+<tr>
+<td style="padding: 8px;">Next.js</td>
+<td style="padding: 8px;">Express.js</td>
+<td style="padding: 8px;">GitHub Actions</td>
+<td style="padding: 8px;">MongoDB</td>
+</tr>
+<tr>
+<td style="padding: 8px;">Vanilla JavaScript</td>
+<td style="padding: 8px;">Java</td>
+<td style="padding: 8px;">Docker</td>
+<td style="padding: 8px;">MySQL</td>
+</tr>
+<tr>
+<td style="padding: 8px;">CSS</td>
+<td style="padding: 8px;">Python Flask</td>
+<td style="padding: 8px;">AWS</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td style="padding: 8px;">Google Cloud Platform (GCP)</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td style="padding: 8px;">Terraform</td>
+<td></td>
+</tr>
+</table>
+
+
 ## Education
 - B.Tech in Computer Science and Engineering, Prestige Institute of Engineering Management & Research, CGPA: 8.15, 07/2020 - 06/2024
 - HSC in Physics Chemistry Math, Pink Flower H. S. School, Percentage: 65.2%, 06/2019 - 04/2020
