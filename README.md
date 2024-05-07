@@ -10,8 +10,7 @@ React.js   | Node.js      | Kubernetes      | PostgreSQL
 Next.js    | Express.js   | GitHub Actions  | MongoDB
 Vanilla JS | Java         | Docker          | MySQL
 CSS        | Python Flask | GCP             | AWS
-           |              | Terraform (IaC) | 
----------- | ------------ | --------------- | ---------
+|| Terraform (IaC) | 
 
 ## Education
 - B.Tech in Computer Science and Engineering, Prestige Institute of Engineering Management & Research, CGPA: 8.15, 07/2020 - 06/2024
@@ -37,11 +36,6 @@ CSS        | Python Flask | GCP             | AWS
 - **Mock Up**: A web-based Quiz application portal that allows the student to perform their test in a given set of time. Technologies used: React.js, Express.js, MongoDB.
 - **Chat Buddy (Facebook Clone)**: Built web-based social media application like Facebook with user login, user registration, user profile, friend profile, and All posts page. Technologies used: React.js, JavaScript, HTML, Bootstrap.
 
-## Connect with Me
-- LinkedIn: [linkedin.com/in/kartik-shriwansh](https://www.linkedin.com/in/kartik-shriwansh)
-- Portfolio: [kartikshriwansh.netlify.app/](https://kartikshriwansh.netlify.app/)
-- Email: kartikshriwansh@gmail.com
-- Phone: +91 7389384869
 
 🔗 &nbsp;**Connect with me**
 
