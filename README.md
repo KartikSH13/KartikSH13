@@ -10,7 +10,7 @@ React.js   | Node.js      | Kubernetes      | PostgreSQL
 Next.js    | Express.js   | GitHub Actions  | MongoDB
 Vanilla JS | Java         | Docker          | MySQL
 CSS        | Python Flask | GCP             | AWS
-| | Terraform (IaC) | 
+| | | Terraform (IaC) | 
 
 ## Education
 - B.Tech in Computer Science and Engineering, Prestige Institute of Engineering Management & Research, CGPA: 8.15, 07/2020 - 06/2024
