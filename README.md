@@ -46,32 +46,13 @@ CSS        | Python Flask | GCP             | AWS
 🔗 &nbsp;**Connect with me**
 
 <p align="left"> 
-    <!-- Portfolio-->
-    <a href="https://kartikshriwansh.netlify.app/" target="blank"><img align="center" src="./assets/dev.svg" alt="kartikSH13" height="30" width="40" /></a>
-    <!-- Linkedin -->
-    <a href="https://www.linkedin.com/in/kartik-shriwansh" target="blank"><img align="center" src="./assets/linkedin.svg" alt="kartikSH13" height="30" width="40" /></a>
-    <!-- Gmail -->
-    <a href="kartikshriwansh@gmail.com" target="blank"><img align="center" src="./assets/gmail.svg" alt="kartikSH13" height="30" width="40" /></a>
+<a href="https://kartikshriwansh.netlify.app/" target="blank"><img align="center" src="./assets/dev.svg" alt="kartikSH13" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kartik-shriwansh" target="blank"><img align="center" src="./assets/linkedin.svg" alt="kartikSH13" height="30" width="40" /></a>
+<a href="kartikshriwansh@gmail.com" target="blank"><img align="center" src="./assets/gmail.svg" alt="kartikSH13" height="30" width="40" /></a>
 </p>
 
-## Open Source Contributions
+## Open Source HandsOn
 - Kubespray
 - KinD
 - Helm chart
 - MedusaJS
-
----
-<!--
-**KartikSH13/KartikSH13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
