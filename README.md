@@ -3,32 +3,15 @@
 Experienced Full Stack Engineer proficient in developing robust web applications, designing intuitive user interfaces, and managing databases. Skilled in all stages of the deployment process, from infrastructure setup to ensuring seamless performance.
 
 ## Skills
-Frontend: React.js | Backend: Node.js | DevOps: Kubernetes | Database: PostgreSQL
 
-### Frontend
-- React.js
-- Next.js
-- Vanilla JavaScript
-- CSS
+Frontend   | Backend      | DevOps          | Database
+---------- | ------------ | --------------- | ---------
+React.js   | Node.js      | Kubernetes      | PostgreSQL
+Next.js    | Express.js   | GitHub Actions  | MongoDB
+Vanilla JS | Java         | Docker          | MySQL
+CSS        | Python Flask | GCP             | AWS 
+           |              | Terraform (IaC) | 
 
-### Backend
-- Java
-- Express.js
-- Node.js
-- Python Flask
-
-### DevOps
-- GitHub Actions
-- Docker
-- Kubernetes
-- AWS
-- Google Cloud Platform (GCP)
-- Infrastructure as Code (Terraform)
-
-### Databases
-- MySQL
-- MongoDB
-- PostgreSQL
 
 ## Education
 - B.Tech in Computer Science and Engineering, Prestige Institute of Engineering Management & Research, CGPA: 8.15, 07/2020 - 06/2024
