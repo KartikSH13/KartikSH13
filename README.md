@@ -42,18 +42,17 @@ CSS        | Python Flask | GCP             | AWS
 - Portfolio: [kartikshriwansh.netlify.app/](https://kartikshriwansh.netlify.app/)
 - Email: kartikshriwansh@gmail.com
 - Phone: +91 7389384869
+
 🔗 &nbsp;**Connect with me**
-<p align="left">
-           
-<!-- Portfolio-->
-<a href="https://kartikshriwansh.netlify.app/" target="blank"><img align="center" src="./assets/dev.svg" alt="kartikSH13" height="30" width="40" /></a>
 
-<!-- Linkedin -->
-<a href="https://www.linkedin.com/in/kartik-shriwansh" target="blank"><img align="center" src="./assets/linkedin.svg" alt="kartikSH13" height="30" width="40" /></a>
-
-<!-- Gmail -->
-<a href="kartikshriwansh@gmail.com" target="blank"><img align="center" src="./assets/gmail.svg" alt="kartikSH13" height="30" width="40" /></a>
-
+<p align="left"> 
+    <!-- Portfolio-->
+    <a href="https://kartikshriwansh.netlify.app/" target="blank"><img align="center" src="./assets/dev.svg" alt="kartikSH13" height="30" width="40" /></a>
+    <!-- Linkedin -->
+    <a href="https://www.linkedin.com/in/kartik-shriwansh" target="blank"><img align="center" src="./assets/linkedin.svg" alt="kartikSH13" height="30" width="40" /></a>
+    <!-- Gmail -->
+    <a href="kartikshriwansh@gmail.com" target="blank"><img align="center" src="./assets/gmail.svg" alt="kartikSH13" height="30" width="40" /></a>
+</p>
 
 ## Open Source Contributions
 - Kubespray
