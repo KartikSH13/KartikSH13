@@ -39,10 +39,18 @@ CSS        | Python Flask | GCP             | AWS
 
 ## Connect with Me
 - LinkedIn: [linkedin.com/in/kartik-shriwansh](https://www.linkedin.com/in/kartik-shriwansh)
-- GitHub: [github.com/KartikSH13](https://github.com/KartikSH13)
 - Portfolio: [kartikshriwansh.netlify.app/](https://kartikshriwansh.netlify.app/)
 - Email: kartikshriwansh@gmail.com
 - Phone: +91 7389384869
+🔗 &nbsp;**Connect with me**
+<p align="left">
+           
+<!-- Portfolio-->
+<a href="https://kartikshriwansh.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kartikSH13" height="30" width="40" /></a>
+
+<!-- Linkedin -->
+<a href="https://www.linkedin.com/in/kartik-shriwansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
 
 ## Open Source Contributions
 - Kubespray
