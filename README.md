@@ -13,48 +13,48 @@ CSS        | Python Flask | GCP             | AWS
 | | | Terraform (IaC) | 
 
 <table style="border-collapse: collapse;">
-<tr>
-<td style="padding: 8px; border:transparent;"><strong>Frontend</strong></td>
-<td style="padding: 8px; border:transparent;"><strong>Backend</strong></td>
-<td style="padding: 8px; border:transparent;"><strong>DevOps</strong></td>
-<td style="padding: 8px; border:transparent;"><strong>Database</strong></td>
-</tr>
-<tr>
-<td style="padding: 8px; border:transparent;">React.js</td>
-<td style="padding: 8px; border:transparent;">Node.js</td>
-<td style="padding: 8px; border:transparent;">Kubernetes</td>
-<td style="padding: 8px; border:transparent;">PostgreSQL</td>
-</tr>
-<tr>
-<td style="padding: 8px; border:transparent;">Next.js</td>
-<td style="padding: 8px; border:transparent;">Express.js</td>
-<td style="padding: 8px; border:transparent;">GitHub Actions</td>
-<td style="padding: 8px; border:transparent;">MongoDB</td>
-</tr>
-<tr>
-<td style="padding: 8px; border:transparent;">Vanilla JavaScript</td>
-<td style="padding: 8px; border:transparent;">Java</td>
-<td style="padding: 8px; border:transparent;">Docker</td>
-<td style="padding: 8px; border:transparent;">MySQL</td>
-</tr>
-<tr>
-<td style="padding: 8px; border:transparent;">CSS</td>
-<td style="padding: 8px; border:transparent;">Python Flask</td>
-<td style="padding: 8px; border:transparent;">AWS</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td style="padding: 8px; border:transparent;">Google Cloud Platform (GCP)</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td style="padding: 8px; border:transparent;">Terraform</td>
-<td></td>
-</tr>
+    <tr style="border: transparent;">
+        <td style="padding: 8px; border: transparent;"><strong>Frontend</strong></td>
+        <td style="padding: 8px;border: transparent;"><strong>Backend</strong></td>
+        <td style="padding: 8px;border: transparent;"><strong>DevOps</strong></td>
+        <td style="padding: 8px;border: transparent;"><strong>Database</strong></td>
+    </tr>
+    <tr style="border: transparent;">
+        <td style="padding: 8px;border: transparent;">React.js</td>
+        <td style="padding: 8px;border: transparent;">Node.js</td>
+        <td style="padding: 8px;border: transparent;">Kubernetes</td>
+        <td style="padding: 8px;border: transparent;">PostgreSQL</td>
+    </tr>
+    <tr style="border: transparent;">
+        <td style="padding: 8px;border: transparent;">Next.js</td>
+        <td style="padding: 8px;border: transparent;">Express.js</td>
+        <td style="padding: 8px;border: transparent;">GitHub Actions</td>
+        <td style="padding: 8px;border: transparent;">MongoDB</td>
+    </tr>
+    <tr style="border: transparent;">
+        <td style="padding: 8px;border: transparent;">Vanilla JavaScript</td>
+        <td style="padding: 8px;border: transparent;">Java</td>
+        <td style="padding: 8px;border: transparent;">Docker</td>
+        <td style="padding: 8px;border: transparent;">MySQL</td>
+    </tr>
+    <tr style="border: transparent;">
+        <td style="padding: 8px;border: transparent;">CSS</td>
+        <td style="padding: 8px;border: transparent;">Python Flask</td>
+        <td style="padding: 8px;border: transparent;">AWS</td>
+        <td style="border: transparent;"></td>
+    </tr>
+    <tr style="border: transparent;">
+        <td style="border: transparent;"></td>
+        <td style="border: transparent;"></td>
+        <td style="padding: 8px; border: transparent;">Google Cloud Platform (GCP)</td>
+        <td style="border: transparent;"></td>
+    </tr>
+    <tr style="border: transparent;">
+        <td style="border: transparent;"></td>
+        <td style="border: transparent;"></td>
+        <td style="padding: 8px;border: transparent; ">Terraform</td>
+        <td style="border: transparent;"></td>
+    </tr>
 </table>
 
 
