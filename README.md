@@ -46,10 +46,13 @@ CSS        | Python Flask | GCP             | AWS
 <p align="left">
            
 <!-- Portfolio-->
-<a href="https://kartikshriwansh.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kartikSH13" height="30" width="40" /></a>
+<a href="https://kartikshriwansh.netlify.app/" target="blank"><img align="center" src="./assets/dev.svg" alt="kartikSH13" height="30" width="40" /></a>
 
 <!-- Linkedin -->
-<a href="https://www.linkedin.com/in/kartik-shriwansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kartik-shriwansh" target="blank"><img align="center" src="./assets/linkedin.svg" alt="kartikSH13" height="30" width="40" /></a>
+
+<!-- Gmail -->
+<a href="kartikshriwansh@gmail.com" target="blank"><img align="center" src="./assets/gmail.svg" alt="kartikSH13" height="30" width="40" /></a>
 
 
 ## Open Source Contributions
