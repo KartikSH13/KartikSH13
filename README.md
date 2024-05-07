@@ -14,45 +14,45 @@ CSS        | Python Flask | GCP             | AWS
 
 <table style="border-collapse: collapse;">
     <tr style="border: transparent;">
-        <td style="padding: 8px; border: transparent;"><strong>Frontend</strong></td>
-        <td style="padding: 8px;border: transparent;"><strong>Backend</strong></td>
-        <td style="padding: 8px;border: transparent;"><strong>DevOps</strong></td>
-        <td style="padding: 8px;border: transparent;"><strong>Database</strong></td>
+        <td style="padding: 8px;border: transparent;color: #0082ff;"><strong>Frontend</strong></td>
+        <td style="padding: 8px;border: transparent;color: #0082ff;"><strong>Backend</strong></td>
+        <td style="padding: 8px;border: transparent;color: #0082ff;"><strong>DevOps</strong></td>
+        <td style="padding: 8px;border: transparent;color: #0082ff;"><strong>Database</strong></td>
     </tr>
     <tr style="border: transparent;">
-        <td style="padding: 8px;border: transparent;">React.js</td>
-        <td style="padding: 8px;border: transparent;">Node.js</td>
-        <td style="padding: 8px;border: transparent;">Kubernetes</td>
-        <td style="padding: 8px;border: transparent;">PostgreSQL</td>
+        <td style="padding: 8px;border: transparent;color: #42c8ff;">React.js</td>
+        <td style="padding: 8px;border: transparent;color: #42c8ff;">Node.js</td>
+        <td style="padding: 8px;border: transparent;color: #42c8ff;">Kubernetes</td>
+        <td style="padding: 8px;border: transparent;color: #42c8ff;">PostgreSQL</td>
     </tr>
     <tr style="border: transparent;">
-        <td style="padding: 8px;border: transparent;">Next.js</td>
-        <td style="padding: 8px;border: transparent;">Express.js</td>
-        <td style="padding: 8px;border: transparent;">GitHub Actions</td>
-        <td style="padding: 8px;border: transparent;">MongoDB</td>
+        <td style="padding: 8px;border: transparent;color: #42c8ff;">Next.js</td>
+        <td style="padding: 8px;border: transparent;color: #42c8ff;">Express.js</td>
+        <td style="padding: 8px;border: transparent;color: #42c8ff;">GitHub Actions</td>
+        <td style="padding: 8px;border: transparent;color: #42c8ff;">MongoDB</td>
     </tr>
     <tr style="border: transparent;">
-        <td style="padding: 8px;border: transparent;">Vanilla JavaScript</td>
-        <td style="padding: 8px;border: transparent;">Java</td>
-        <td style="padding: 8px;border: transparent;">Docker</td>
-        <td style="padding: 8px;border: transparent;">MySQL</td>
+        <td style="padding: 8px;border: transparent;color: #42c8ff;">Vanilla JavaScript</td>
+        <td style="padding: 8px;border: transparent;color: #42c8ff;">Java</td>
+        <td style="padding: 8px;border: transparent;color: #42c8ff;">Docker</td>
+        <td style="padding: 8px;border: transparent;color: #42c8ff;">MySQL</td>
     </tr>
     <tr style="border: transparent;">
-        <td style="padding: 8px;border: transparent;">CSS</td>
-        <td style="padding: 8px;border: transparent;">Python Flask</td>
-        <td style="padding: 8px;border: transparent;">AWS</td>
+        <td style="padding: 8px;border: transparent;color: #42c8ff;">CSS</td>
+        <td style="padding: 8px;border: transparent;color: #42c8ff;">Python Flask</td>
+        <td style="padding: 8px;border: transparent;color: #42c8ff;">AWS</td>
         <td style="border: transparent;"></td>
     </tr>
     <tr style="border: transparent;">
         <td style="border: transparent;"></td>
         <td style="border: transparent;"></td>
-        <td style="padding: 8px; border: transparent;">Google Cloud Platform (GCP)</td>
+        <td style="padding: 8px;border: transparent;color: #42c8ff;">Google Cloud Platform (GCP)</td>
         <td style="border: transparent;"></td>
     </tr>
     <tr style="border: transparent;">
         <td style="border: transparent;"></td>
         <td style="border: transparent;"></td>
-        <td style="padding: 8px;border: transparent; ">Terraform</td>
+        <td style="padding: 8px;border: transparent;color: #42c8ff; ">Terraform</td>
         <td style="border: transparent;"></td>
     </tr>
 </table>
