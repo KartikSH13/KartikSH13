@@ -3,15 +3,6 @@
 Experienced Full Stack Engineer proficient in developing robust web applications, designing intuitive user interfaces, and managing databases. Skilled in all stages of the deployment process, from infrastructure setup to ensuring seamless performance.
 
 ## Skills
-
-Frontend | Backend | DevOps | Database
----------- | ------------ | --------------- | ---------
-React.js   | Node.js      | Kubernetes      | PostgreSQL
-Next.js    | Express.js   | GitHub Actions  | MongoDB
-Vanilla JS | Java         | Docker          | MySQL
-CSS        | Python Flask | GCP             | AWS
-| | | Terraform (IaC) | 
-
 <table style="border-collapse: collapse;">
     <tr style="border: transparent;">
         <td style="padding: 8px;border: transparent;color: #0082ff;"><strong>Frontend</strong></td>
